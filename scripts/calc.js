@@ -1,3 +1,5 @@
-function addT () {
-    return addT
+function addition(num1, num2) {
+    return num1 + num2;
 }
+
+module.exports = addition;
